@@ -1,3 +1,5 @@
+# Blockchain and Bitcoin Fundamentals
+- [Learn the key elements of blockchain and Bitcoin in this bestselling video course and accompanying PDF glossary](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/?ref=200lab.io&couponCode=SKILLS4SALEB)
 # Smart-contract-Development
 - **Smart Contracts**
     - [Basics of Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
