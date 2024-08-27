@@ -7,7 +7,7 @@
         - [Solidity Patterns](https://github.com/aquaflamingo/Solidity-Contract-Patterns)
     - [Deploying Contract](https://ethereum.org/en/developers/docs/smart-contracts/deploying/)
 # Smart contract Testing and Debugging
-      - [**Unit Testing**](https://ethereum.org/en/developers/docs/smart-contracts/testing/#integration-testing-for-smart-contracts)
+- [**Unit Testing**](https://ethereum.org/en/developers/docs/smart-contracts/testing/#integration-testing-for-smart-contracts)
 - [**Code Coverage**](https://github.com/sc-forks/solidity-coverage)
 - [**Integration Testing**](https://ethereum.org/en/developers/docs/smart-contracts/testing/#integration-testing-for-smart-contracts)
 - [**Testing Framework**](https://github.com/PatrickAlphaC/smart-contract-frameworks)
